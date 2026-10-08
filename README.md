@@ -3,6 +3,8 @@
 A small personal toolkit for finding and filtering entry-level / new-grad software
 jobs on LinkedIn.
 
+![Job results page](docs/screenshot.png)
+
 ## Parts
 
 | File | What it does |
