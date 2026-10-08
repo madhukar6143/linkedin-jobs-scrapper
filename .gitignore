@@ -1,0 +1,20 @@
+# Scraped job data — never commit (LinkedIn data, personal)
+*.xlsx
+*.csv
+seen.json
+
+# Generated page (contains embedded job data)
+jobs.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
